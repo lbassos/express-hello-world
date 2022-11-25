@@ -15,6 +15,9 @@ app.get('/.well-known/assetlinks.json', function (request, response) {
 app.get('/home', function (request, response) {
   response.sendFile(__dirname + '/home.html');
 });
+app.get('/', function (request, response) {
+  response.sendFile(__dirname + '/home.html');
+});
 app.get('/actualizar-datos-home', function (request, response) {
   response.sendFile(__dirname + '/home.html');
 });
