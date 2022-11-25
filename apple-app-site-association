@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "D5J8Q9CU38.com.app.p8414JG.qa",
-				"paths": ["*"]
+				"paths": ["/actualizar-datos-home"]
 			}
 		]
 	}
