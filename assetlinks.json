@@ -1,0 +1,20 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.app.p8414JG.qa",
+               "sha256_cert_fingerprints": [
+                "C6:CE:61:ED:85:3D:4A:C8:65:43:A7:1C:C6:10:74:F2:BB:32:94:88:CA:4C:55:44:FC:8C:F6:04:9C:E3:59:8A",
+                "35:22:34:5C:CD:7B:13:84:98:E5:50:97:E2:16:1C:7F:76:C0:C5:72:8D:EA:89:0A:8A:0F:25:8C:E5:C5:C2:20",
+                "2A:0D:DB:2B:BE:85:2F:BA:72:65:EC:A1:41:A0:6C:2E:57:B9:62:38:D0:83:C7:40:92:D3:39:1C:EE:6C:6C:AD",
+                "08:E2:F2:04:D1:BD:9E:BF:1E:76:6C:3F:EB:EE:3F:8C:63:23:24:1C:A4:E9:CD:4F:6A:4F:7A:CE:EB:2D:78:63"
+                ] 
+             }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cl.basso.deeplinks",
+    "sha256_cert_fingerprints":
+      ["BC:69:75:15:E3:12:D7:3A:8C:E0:31:32:90:88:47:D0:29:C0:7B:33:58:15:C6:A6:A6:03:1C:A8:0C:71:36:C2"]
+  }
+}]
